@@ -1,0 +1,42 @@
+#main {
+    background-image: url('../images/blurry-gradient-haikei.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: max-content;
+    padding-top: 18rem;
+    padding-bottom: 8rem;
+}
+
+/* .navbar {
+    background-color: #235c9c !important;
+} */
+
+.detail_operator {
+    background-image: url('../images/blurry-gradient-haikei.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45rem;
+}
+
+.card {
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.footer {
+    width: auto;
+}
+
+.TourOperator {
+    background-image: url('../images/blurry-gradient-haikei.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45rem;
+}
+
+.card img {
+    background-size: contain;
+    width: 18rem;
+    height: 18rem;
+}
